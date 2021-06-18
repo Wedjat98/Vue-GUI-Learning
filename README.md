@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### add element-plus
+```
+vue add element-plus
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
